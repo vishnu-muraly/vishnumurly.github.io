@@ -44,7 +44,7 @@
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p>This github page is an open-source version of <a href="https://www.ankitrathi.com/">ankitrathi.com</a>
+    <p>This github page is an open-source version of <a href="https://www.ankitrathi.com/">vishnumuraly.in</a>
 <img src="/images/AR_Logo.jpg" alt="AR_Logo" /></p>
 
 <ul>
