@@ -37,7 +37,7 @@
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Welcome to ankit-rathi.github.io</h1>
+    <h1 class="post-title p-name" itemprop="name headline">Welcome to vishnumuraly.github.io</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="" itemprop="datePublished">
       </time></p>
